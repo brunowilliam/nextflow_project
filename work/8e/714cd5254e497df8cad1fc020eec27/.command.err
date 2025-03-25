@@ -1,0 +1,67 @@
+Unable to find image 'community.wave.seqera.io/library/bioconductor-annotationhub_bioconductor-geneplast_r-janitor_r-purrr_pruned:8557e688eaf3ed9d' locally
+8557e688eaf3ed9d: Pulling from library/bioconductor-annotationhub_bioconductor-geneplast_r-janitor_r-purrr_pruned
+dafa2b0c44d2: Pulling fs layer
+dec6b097362e: Pulling fs layer
+f88da01cff0b: Pulling fs layer
+4f4fb700ef54: Pulling fs layer
+92dc97a3ef36: Pulling fs layer
+403f74b0f85e: Pulling fs layer
+10b8c00c10a5: Pulling fs layer
+17dc7ea432cc: Pulling fs layer
+bb36d6c3110d: Pulling fs layer
+0ea1a16bbe82: Pulling fs layer
+030a47592a0a: Pulling fs layer
+4f4fb700ef54: Waiting
+c740173dda50: Pulling fs layer
+92dc97a3ef36: Waiting
+6130d2a11718: Pulling fs layer
+403f74b0f85e: Waiting
+c740173dda50: Waiting
+10b8c00c10a5: Waiting
+bb36d6c3110d: Waiting
+0ea1a16bbe82: Waiting
+6130d2a11718: Waiting
+dec6b097362e: Verifying Checksum
+dec6b097362e: Download complete
+f88da01cff0b: Verifying Checksum
+f88da01cff0b: Download complete
+4f4fb700ef54: Verifying Checksum
+4f4fb700ef54: Download complete
+dafa2b0c44d2: Verifying Checksum
+dafa2b0c44d2: Download complete
+dafa2b0c44d2: Pull complete
+dec6b097362e: Pull complete
+92dc97a3ef36: Verifying Checksum
+92dc97a3ef36: Download complete
+f88da01cff0b: Pull complete
+4f4fb700ef54: Pull complete
+92dc97a3ef36: Pull complete
+403f74b0f85e: Verifying Checksum
+403f74b0f85e: Download complete
+403f74b0f85e: Pull complete
+10b8c00c10a5: Verifying Checksum
+10b8c00c10a5: Download complete
+10b8c00c10a5: Pull complete
+17dc7ea432cc: Verifying Checksum
+17dc7ea432cc: Download complete
+17dc7ea432cc: Pull complete
+bb36d6c3110d: Verifying Checksum
+bb36d6c3110d: Download complete
+0ea1a16bbe82: Verifying Checksum
+0ea1a16bbe82: Download complete
+bb36d6c3110d: Pull complete
+0ea1a16bbe82: Pull complete
+030a47592a0a: Verifying Checksum
+030a47592a0a: Download complete
+030a47592a0a: Pull complete
+c740173dda50: Verifying Checksum
+c740173dda50: Download complete
+c740173dda50: Pull complete
+6130d2a11718: Verifying Checksum
+6130d2a11718: Download complete
+6130d2a11718: Pull complete
+Digest: sha256:5088b4e4db84f37f1b4f58a9bad69458c5e500b1abc86e128779c89842fab11f
+Status: Downloaded newer image for community.wave.seqera.io/library/bioconductor-annotationhub_bioconductor-geneplast_r-janitor_r-purrr_pruned:8557e688eaf3ed9d
+Error in library(GeneBridge) : there is no package called ‘GeneBridge’
+Execution halted
+exit status 1

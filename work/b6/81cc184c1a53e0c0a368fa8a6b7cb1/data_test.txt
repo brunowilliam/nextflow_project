@@ -1,0 +1,1 @@
+/home/bruno/Documentos/projeto_nextflow/data/data_test.txt

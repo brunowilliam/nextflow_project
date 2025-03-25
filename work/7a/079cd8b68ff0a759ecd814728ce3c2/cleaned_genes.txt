@@ -1,0 +1,1 @@
+/home/bruno/Documentos/projeto_nextflow/work/2f/178790068b224607bd8715fbfd1ada/cleaned_genes.txt

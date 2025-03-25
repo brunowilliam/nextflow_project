@@ -1,0 +1,23 @@
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:RCurl’:
+
+    complete
+
+Processando batch 1 de 1 
+Erro na consulta para genes: 
+Error: '\.' is an unrecognized escape in character string (<input>:4:70)
+Execution halted
+exit status 1

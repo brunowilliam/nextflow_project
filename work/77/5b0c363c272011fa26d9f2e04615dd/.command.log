@@ -1,0 +1,48 @@
+Unable to find image 'rocker/tidyverse:4.3.0' locally
+4.3.0: Pulling from rocker/tidyverse
+3c645031de29: Pulling fs layer
+eb5ba85ece65: Pulling fs layer
+336082e130a7: Pulling fs layer
+d6f516f66899: Pulling fs layer
+e7191ae70de7: Pulling fs layer
+1818e5f3d997: Pulling fs layer
+1dfdf17cbffb: Pulling fs layer
+bf4a0e50270b: Pulling fs layer
+7190923ad76c: Pulling fs layer
+1dfdf17cbffb: Waiting
+d6f516f66899: Waiting
+1818e5f3d997: Waiting
+bf4a0e50270b: Waiting
+e7191ae70de7: Waiting
+7190923ad76c: Waiting
+eb5ba85ece65: Verifying Checksum
+eb5ba85ece65: Download complete
+d6f516f66899: Verifying Checksum
+d6f516f66899: Download complete
+3c645031de29: Verifying Checksum
+3c645031de29: Download complete
+3c645031de29: Pull complete
+eb5ba85ece65: Pull complete
+e7191ae70de7: Verifying Checksum
+e7191ae70de7: Download complete
+1dfdf17cbffb: Download complete
+bf4a0e50270b: Verifying Checksum
+bf4a0e50270b: Download complete
+336082e130a7: Verifying Checksum
+336082e130a7: Download complete
+7190923ad76c: Verifying Checksum
+7190923ad76c: Download complete
+1818e5f3d997: Verifying Checksum
+1818e5f3d997: Download complete
+336082e130a7: Pull complete
+d6f516f66899: Pull complete
+e7191ae70de7: Pull complete
+1818e5f3d997: Pull complete
+1dfdf17cbffb: Pull complete
+bf4a0e50270b: Pull complete
+7190923ad76c: Pull complete
+Digest: sha256:747abe4759da18f321f7c62ff213e81d69abd4fc9499a402a5280d9e3bd972be
+Status: Downloaded newer image for rocker/tidyverse:4.3.0
+Error in library(RCurl) : there is no package called ‘RCurl’
+Execution halted
+exit status 1
