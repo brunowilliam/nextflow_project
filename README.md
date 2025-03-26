@@ -11,7 +11,7 @@ Evortho é uma ferramenta de bioinformática que infere a origem evolutiva de ge
 
 ### Entrada
 - **Arquivo de input**: Lista de genes em formato `.txt` (um gene por linha). 
-- O repositório possui um dado de teste na pasta `data`, de toda forma, caso o usuário não set sua própria lista de genes na linha de comando, o dado de teste é utilizado automaticamente.
+- O repositório possui um dado de teste na pasta `data`. Caso o usuário não set sua própria lista de genes na linha de comando, o dado de teste é utilizado automaticamente.
 
 - **Parâmetro**: 
   ```bash
