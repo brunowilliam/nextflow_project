@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Evortho é uma ferramenta de bioinformática que infere a origem evolutiva de genes utilizando:
+Evortho é uma ferramenta de bioinformática que infere a origem evolutiva de genes através dos seguintes passos:
 - Processamento automatizado de listas de genes
 - Enraizamento de genes com o pacote R `geneplast`
 - Saída formatada para fácil interpretação e criação de visualizações.
